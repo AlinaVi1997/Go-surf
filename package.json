@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "animate.css": "^4.1.1",
+    "browser-sync": "^2.27.10",
+    "clean": "^4.0.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "normalize.css": "^8.0.1",
+    "prettier": "2.8.3",
+    "sass": "^1.55.0",
+    "type": "module"
+  },
+  "dependencies": {
+    "eslint": "^8.33.0",
+    "gulp-rename": "^2.0.0",
+    "node-sass": "^7.0.3",
+    "slick-carousel": "^1.8.1"
+  }
+}
